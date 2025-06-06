@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import '../../style/citation.css';
+import '../../style/citation.sass';
 
 function CitationRandom() {
   const [citationData, setCitationData] = useState(null);

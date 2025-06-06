@@ -1,5 +1,5 @@
 import TodayCard from "./TodayCard";
-import '../../../style/today.css';
+import '../../../style/today.sass';
 import { useContext } from "react";
 import { WeatherContext } from "../../../script/weatherContext";
 import weatherVerif from '../../../script/weatherImg';

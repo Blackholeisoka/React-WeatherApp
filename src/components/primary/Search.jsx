@@ -1,7 +1,7 @@
 import Map from '../../img/Map.png';
 import Chevron from '../../img/Chevron.png';
 import Notification from '../../img/Notification.png';
-import '../../style/search.css';
+import '../../style/search.sass';
 import { WeatherContext } from '../../script/weatherContext';
 import { useContext, useState } from 'react';
 import Autocomplete from './Autocomplete';

@@ -1,6 +1,6 @@
 import { useContext, useRef, useEffect } from 'react';
 import { WeatherContext } from '../../script/weatherContext';
-import '../../style/autocomplete.css';
+import '../../style/autocomplete.sass';
 
 function Autocomplete({ cities, onClose }) {
   const ref = useRef(null);

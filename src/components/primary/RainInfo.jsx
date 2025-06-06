@@ -1,7 +1,7 @@
 import Humidity from '../../img/Humidity.png';
 import Degrees from '../../img/Degrees.png';
 import Wind from '../../img/Wind.png';
-import '../../style/rain.css';
+import '../../style/rain.sass';
 import {WeatherContext} from '../../script/weatherContext';
 import { useContext } from 'react';
 

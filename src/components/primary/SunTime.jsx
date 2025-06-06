@@ -1,6 +1,6 @@
 import Sunset from '../../img/2.png';
 import Sunrise from '../../img/6.png';
-import '../../style/SunTime.css';
+import '../../style/SunTime.sass';
 import { WeatherContext } from '../../script/weatherContext';
 import { useContext } from 'react';
 

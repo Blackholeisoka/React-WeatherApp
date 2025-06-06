@@ -1,5 +1,5 @@
 import { useContext, useEffect } from 'react';
-import '../../style/maindegrees.css';
+import '../../style/maindegrees.sass';
 import { WeatherContext } from '../../script/weatherContext';
 import imageVerif from '../../script/weatherImg';
 import weatherBackground from '../../script/weatherBackground';

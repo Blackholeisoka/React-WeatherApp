@@ -1,5 +1,5 @@
 import LoaderImg from '../../img/Loader.png';
-import '../../style/loader.css';
+import '../../style/loader.sass';
 
 function Loader() {
 

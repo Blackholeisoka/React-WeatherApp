@@ -15,7 +15,7 @@ import Copyright from "./components/primary/Copyright";
 import Loader from "./components/loader/Loader";
 import NoFoundCity from "./components/error/NoFoundCity";
 
-import "./style/App.css";
+import "./style/App.sass";
 import Maps from "./components/primary/Maps";
 
 function Layout() {

@@ -1,4 +1,4 @@
-import '../../style/nextDay.css';
+import '../../style/nextDay.sass';
 import { useContext } from 'react';
 import { WeatherContext } from '../../script/weatherContext';
 import imageVerif from '../../script/weatherImg';

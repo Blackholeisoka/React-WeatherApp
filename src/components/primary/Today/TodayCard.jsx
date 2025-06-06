@@ -1,4 +1,4 @@
-import '../../../style/todayCard.css';
+import '../../../style/todayCard.sass';
 
 function TodayCard({tempC, hour, img}) {
   return (
