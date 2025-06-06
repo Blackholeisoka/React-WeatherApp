@@ -1,0 +1,21 @@
+.nextday{
+    color: #fff;
+    border-radius: 20px;
+    background-color: #00000021;
+    margin: 20px 0;
+    padding: 20px 20px 0px 20px;
+}
+
+.nextday_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nextday_container{
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+

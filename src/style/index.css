@@ -1,0 +1,15 @@
+*{
+    font-family: "Inter", sans-serif;
+    user-select: none;
+}
+
+body{
+    box-sizing: border-box;
+    margin: 35px 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom,#08244F 0%, #134CB5 35%, #0B42AB 100%);
+}
