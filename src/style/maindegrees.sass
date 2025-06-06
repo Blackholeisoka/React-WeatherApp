@@ -1,9 +1,9 @@
+@import './mixin'
+
 .main_container
     color: #fff
     margin-bottom: 20px
-    display: flex
-    align-items: center
-    justify-content: center
+    @include centerContent
     flex-direction: column
 
     h1
@@ -17,9 +17,7 @@
         font-size: 18px
 
     .min_max-degrees
-        display: flex
-        align-items: center
-        justify-content: center
+        @include centerContent
         gap: 20px
 
         .min_max-degrees p

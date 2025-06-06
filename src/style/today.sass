@@ -1,3 +1,5 @@
+@import './mixin'
+
 .today
     margin-top: 20px
     border-radius: 20px
@@ -7,9 +9,7 @@
     overflow: hidden
 
     .today_title
-        display: flex
-        align-items: center
-        justify-content: space-between
+        @include spaceBetween
 
     .today_container
         display: flex
