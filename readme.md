@@ -1,63 +1,68 @@
 # 🌤️ React Weather App
 
-![Weather App Screenshot](/votre_image)
-
 A simple and beautiful weather web application built with **React**.  
 It allows users to search cities worldwide and get **real-time weather updates**, including temperature, conditions, and forecasts.
 
-> ⚡ Background color changes dynamically depending on the current weather (e.g., sunny, rainy, cloudy).
->  
-> ⛅ Weather icons and messages adapt to the selected location’s weather in real time.
+🖌️ Background color changes dynamically depending on the current weather (e.g., sunny, rainy, cloudy).  
+🌦️ Weather icons and messages adapt to the selected location’s weather in real time.
+
+![Image](https://github.com/user-attachments/assets/26f322f0-0e87-4666-9d84-ad3028865d86)
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-```plaintext
-🔍 City search with autocomplete suggestions  
-📍 Worldwide weather coverage  
-🌈 Dynamic background based on weather (e.g., “sun”, “cloud”, “rain”)  
-🌡️ Temperature, humidity, wind speed  
-🕒 Hourly & next day forecast  
-📱 Responsive mobile-first design  
-📸 Screenshots
-Loading	Sunny	Rainy	City Search	Error
+- 🔍 City search with autocomplete suggestions
+- 🌍 Worldwide location support
+- 🌤️ Dynamic background based on weather (`sun`, `cloud`, `rain`, etc.)
+- 🌡️ Current temperature, humidity, and wind speed
+- 🕒 Hourly forecast and next 2 days forecast
+- 📱 Fully responsive design
+- ⚠️ Error handling for invalid search
+- ⏳ Loading state
+- 🌐 City list with small flags in UI (if available)
 
-Replace /votre_image with actual image paths in your repo.
+---
 
-🧠 Technologies Used
-plaintext
-Copier
-Modifier
-- React (Hooks)
-- CSS (custom styles)
+## 📸 Screenshots
+
+| Loading | Sunny | Rainy | City Search | Error |
+|--------|--------|--------|--------------|--------|
+| ![Loading](/votre_image) | ![Sunny](/votre_image) | ![Rainy](/votre_image) | ![Search](/votre_image) | ![Error](/votre_image) |
+
+---
+
+## 🧰 Technologies Used
+
+- React (with functional components & hooks)
 - OpenWeatherMap API
-🌍 Live Demo
-🔗 Click here to try it live
+- Custom CSS (no framework)
+- Optional: country-flag-icons, geolocation APIs
 
-🛠️ Setup Instructions
-bash
-Copier
-Modifier
-# 1. Clone the repo
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://blackholeisoka.github.io/React-WeatherApp/)
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+# Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
-# 2. Install dependencies
+# Install dependencies
 npm install
 
-# 3. Start the dev server
+# Start the development server
 npm start
-📌 Notes
-💡 The background color and icons change according to the weather state returned by the API.
-For example:
 
-sun → bright blue background with sun icon ☀️
-
-cloud → gray background with clouds ☁️
-
-rain → dark blue background with rain animation 🌧️
 
 You can customize these backgrounds in the CSS depending on weather.main or weather.description.
 
 🧾 License
 This project is licensed under the MIT License.
+```
+## 🥹❤️
