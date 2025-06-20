@@ -26,9 +26,7 @@ It allows users to search cities worldwide and get **real-time weather updates**
 
 ## 📸 Screenshots
 
-| Loading | Sunny | Rainy | City Search | Error |
-|--------|--------|--------|--------------|--------|
-| ![Loading](/votre_image) | ![Sunny](/votre_image) | ![Rainy](/votre_image) | ![Search](/votre_image) | ![Error](/votre_image) |
+![Image](https://github.com/user-attachments/assets/2211ae75-80ff-490a-aa02-cb7812883907) ![Image](https://github.com/user-attachments/assets/35a78a06-65e1-450b-9b7d-b261f6104463) ![Image](https://github.com/user-attachments/assets/613057af-76dc-4164-ac52-ad47a7860f90) ![Image](https://github.com/user-attachments/assets/aeb84dcb-3776-4cf9-be2d-d1ed612ad8e5) ![Image](https://github.com/user-attachments/assets/6ac9f9da-9f86-42ff-b8c4-1966f9646416) ![Image]( https://github.com/user-attachments/assets/179491f3-659d-4f09-bdb3-3315c403c302)
 
 ---
 
